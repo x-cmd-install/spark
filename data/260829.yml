@@ -1,0 +1,75 @@
+about:
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  license: Apache-2.0
+  homepage: https://spark.apache.org/
+  head: 024120d
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:15:52Z
+timeline:
+  created: 2014-02-25
+  lastCommit: 2026-08-28
+  lastRelease: ?
+popularity:
+  star: 43900
+  watcher: 1991
+  fork: 29355
+  release: 0
+  contributor: 2392
+  pullRequest: 58186
+  issue: 103
+language:
+  Scala: 78033284
+  Python: 18131629
+  Java: 7365454
+  Jupyter Notebook: 4577604
+  HiveQL: 1968675
+  R: 1303802
+  PLpgSQL: 336938
+  JavaScript: 306998
+  Shell: 301854
+  ANTLR: 105102
+  Dockerfile: 44834
+  HTML: 43355
+  CSS: 42056
+  Batchfile: 28253
+  Go Template: 3290
+  Makefile: 2388
+  Thrift: 2016
+  q: 1919
+  PowerShell: 1772
+  C: 1493
+totalLine: 112602716
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 217
+    closedIssue: 3
+    openIssue: 8
+    commit: 549
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 0
+    openPR: 373
+    closedIssue: 13
+    openIssue: 25
+    commit: 1589
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 0
+    openPR: 442
+    closedIssue: 58
+    openIssue: 36
+    commit: 2679
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 1
+    openPR: 457
+    closedIssue: 67
+    openIssue: 36
+    commit: 4531
