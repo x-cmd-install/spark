@@ -14,11 +14,11 @@ x install spark
 
 ## Code insight
 
-Total: **2,209,317** lines of code across **10692** files in the top 5 languages.
+Total: **2,209,397** lines of code across **10693** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 1,407,733 | 380,472 | 222,338 | 6389 |
+| Scala | 1,407,813 | 380,513 | 222,351 | 6390 |
 | Python | 383,892 | 40,413 | 57,118 | 1520 |
 | Java | 127,929 | 53,827 | 24,321 | 1361 |
 | Json | 124,314 | 0 | 3 | 855 |
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 43,981 · **Forks**: 29,369 · **Open issues**: 107 · **Contributors**: 2,391
+- **Stars**: 43,985 · **Forks**: 29,369 · **Open issues**: 107 · **Contributors**: 2,391
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 8 · **Open PRs**: 514 · **Closed issues**: 74 · **Open issues**: 33 · **Commits**: 50097
+- **Releases**: 0 · **Merged PRs**: 8 · **Open PRs**: 518 · **Closed issues**: 75 · **Open issues**: 32 · **Commits**: 50101
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 270 | 2 | 8 | 509 |
-| last60d | 2026-07-14 | 0 | 0 | 360 | 6 | 16 | 1115 |
-| 90d | 2026-06-14 | 0 | 0 | 442 | 12 | 26 | 1640 |
-| last180d | 2026-03-16 | 0 | 0 | 494 | 58 | 31 | 2762 |
-| 360d | 2025-09-17 | 0 | 1 | 509 | 74 | 33 | 4661 |
-| last720d | 2024-09-22 | 0 | 1 | 512 | 74 | 33 | 7850 |
+| 30d | 2026-08-14 | 0 | 0 | 271 | 2 | 8 | 398 |
+| last60d | 2026-07-15 | 0 | 0 | 364 | 6 | 16 | 1008 |
+| 90d | 2026-06-15 | 0 | 0 | 445 | 11 | 26 | 1547 |
+| last180d | 2026-03-17 | 0 | 0 | 498 | 59 | 30 | 2669 |
+| 360d | 2025-09-18 | 0 | 1 | 513 | 75 | 32 | 4607 |
+| last720d | 2024-09-23 | 0 | 1 | 516 | 75 | 32 | 7851 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for spark lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T06:06:58Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:20:59Z._
