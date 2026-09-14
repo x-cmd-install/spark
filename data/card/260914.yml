@@ -615,3 +615,4 @@ checks:
       - 'Info:   1 out of   2 npmCommand dependencies pinned'
       - 'Info:   0 out of  18 containerImage dependencies pinned'
       - 'Info:   0 out of   9 pipCommand dependencies pinned'
+---
