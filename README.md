@@ -14,14 +14,14 @@ x install spark
 
 ## Code insight
 
-Total: **2,253,153** lines of code across **10781** files in the top 5 languages.
+Total: **2,257,007** lines of code across **10785** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Scala | 1,444,472 | 390,076 | 226,390 | 6453 |
-| Python | 388,516 | 41,091 | 57,767 | 1535 |
-| Java | 129,767 | 54,852 | 24,517 | 1370 |
-| Json | 124,420 | 0 | 3 | 855 |
+| Scala | 1,448,056 | 390,927 | 226,649 | 6457 |
+| Python | 388,775 | 41,105 | 57,808 | 1535 |
+| Java | 129,767 | 54,857 | 24,517 | 1370 |
+| Json | 124,431 | 0 | 3 | 855 |
 | Sql | 51,220 | 17,885 | 10,173 | 568 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 44,144 · **Forks**: 29,410 · **Open issues**: 110 · **Contributors**: 2,403
+- **Stars**: 44,149 · **Forks**: 29,415 · **Open issues**: 110 · **Contributors**: 2,404
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 8 · **Open PRs**: 581 · **Closed issues**: 84 · **Open issues**: 26 · **Commits**: 50428
+- **Releases**: 0 · **Merged PRs**: 8 · **Open PRs**: 590 · **Closed issues**: 84 · **Open issues**: 26 · **Commits**: 50442
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 262 | 2 | 1 | 344 |
-| last60d | 2026-08-09 | 0 | 0 | 395 | 5 | 10 | 898 |
-| 90d | 2026-07-10 | 0 | 0 | 479 | 9 | 18 | 1459 |
-| last180d | 2026-04-11 | 0 | 0 | 559 | 43 | 25 | 2773 |
-| 360d | 2025-10-13 | 0 | 0 | 576 | 84 | 26 | 4792 |
-| last720d | 2024-10-18 | 0 | 1 | 579 | 84 | 26 | 7943 |
+| 30d | 2026-09-09 | 0 | 0 | 268 | 2 | 1 | 358 |
+| last60d | 2026-08-10 | 0 | 0 | 403 | 4 | 9 | 912 |
+| 90d | 2026-07-11 | 0 | 0 | 487 | 9 | 18 | 1473 |
+| last180d | 2026-04-12 | 0 | 0 | 568 | 43 | 25 | 2787 |
+| 360d | 2025-10-14 | 0 | 0 | 585 | 84 | 26 | 4806 |
+| last720d | 2024-10-19 | 0 | 1 | 588 | 84 | 26 | 7931 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for spark lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T07:19:20Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T07:23:32Z._
