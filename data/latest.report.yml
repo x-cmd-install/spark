@@ -2,29 +2,29 @@ about:
   description: "Apache Spark - A unified analytics engine for large-scale data processing"
   license: Apache-2.0
   homepage: https://spark.apache.org/
-  head: d3fe206
+  head: 3dff5f0
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T07:01:26Z
+  collectedAt: 2026-10-30T07:04:54Z
 timeline:
   created: 2014-02-25
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 44366
+  star: 44368
   watcher: 1995
-  fork: 29544
+  fork: 29561
   release: 0
   contributor: 2434
-  pullRequest: 59670
-  issue: 125
+  pullRequest: 59714
+  issue: 126
 language:
-  Scala: 84740472
-  Python: 19061952
+  Scala: 84896293
+  Python: 19085256
   Java: 7687812
   Jupyter Notebook: 4577604
   HiveQL: 1968675
@@ -44,76 +44,76 @@ language:
   Thrift: 2016
   q: 1919
   PowerShell: 1772
-totalBytes: 120695911
+totalBytes: 120875036
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 1
-    openPR: 290
+    openPR: 299
     closedIssue: 2
-    openIssue: 11
-    commit: 375
+    openIssue: 12
+    commit: 397
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 1
-    openPR: 456
+    openPR: 465
     closedIssue: 4
-    openIssue: 16
-    commit: 821
+    openIssue: 17
+    commit: 843
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 1
-    openPR: 567
+    openPR: 578
     closedIssue: 10
-    openIssue: 20
-    commit: 1429
+    openIssue: 21
+    commit: 1451
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 1
-    openPR: 665
+    openPR: 679
     closedIssue: 43
-    openIssue: 31
-    commit: 2860
+    openIssue: 32
+    commit: 2882
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 1
-    openPR: 681
+    openPR: 694
     closedIssue: 93
-    openIssue: 32
-    commit: 4890
+    openIssue: 33
+    commit: 4912
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 2
-    openPR: 684
+    openPR: 697
     closedIssue: 93
-    openIssue: 32
-    commit: 8063
+    openIssue: 33
+    commit: 8081
 total:
   release: 0
   mergedPR: 9
-  openPR: 686
+  openPR: 699
   closedIssue: 93
-  openIssue: 32
-  commit: 50773
+  openIssue: 33
+  commit: 50795
 ---
 path: /home/runner/.x-repo/github.com/apache/spark
-collectedAt: 2026-10-29T07:02:46Z
+collectedAt: 2026-10-30T07:06:43Z
 loc:
   Scala:
-    code: 1490282
-    comments: 398665
-    blanks: 230859
-    files: 6529
+    code: 1493422
+    comments: 398906
+    blanks: 231128
+    files: 6533
   Python:
-    code: 397221
-    comments: 41747
-    blanks: 59181
+    code: 397676
+    comments: 41768
+    blanks: 59238
     files: 1550
   Java:
     code: 131422
@@ -121,15 +121,15 @@ loc:
     blanks: 24772
     files: 1382
   Json:
-    code: 125107
+    code: 125133
     comments: 0
     blanks: 3
     files: 857
   Sql:
-    code: 51748
-    comments: 17986
-    blanks: 10270
-    files: 570
+    code: 51787
+    comments: 17998
+    blanks: 10279
+    files: 571
   Q:
     code: 41456
     comments: 0
@@ -272,8 +272,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 59776
-    blanks: 15053
+    comments: 59784
+    blanks: 15054
     files: 333
   Text:
     code: 0
@@ -281,10 +281,10 @@ loc:
     blanks: 29135
     files: 1329
 total:
-  code: 2322661
-  comments: 785604
-  blanks: 394614
-  files: 14756
+  code: 2326321
+  comments: 785886
+  blanks: 394950
+  files: 14761
 ---
 date: "2026-10-26"
 repo:
